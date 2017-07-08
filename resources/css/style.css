@@ -34,3 +34,9 @@ h3 {
 body {
     font-family: "Helvetica", sans-serif;
 }
+
+.footer {
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
+}
